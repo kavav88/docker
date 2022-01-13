@@ -1,0 +1,10 @@
+#------------------------------------------------------------------------------#
+#                   OFFICIAL DEBIAN REPOS                    
+#------------------------------------------------------------------------------#
+
+###### Debian Main Repos
+deb http://ftp.ru.debian.org/debian/ stable main non-free
+deb-src http://ftp.ru.debian.org/debian/ stable main non-free
+
+deb http://ftp.ru.debian.org/debian/ stable-updates main non-free
+deb-src http://ftp.ru.debian.org/debian/ stable-updates main non-free
